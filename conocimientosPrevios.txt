@@ -13,5 +13,6 @@ Previous knowledge:
 		- React
 	- DevOps:
 		- PostgreSQL, MySQL, SQLite
-		- MongoDB, Firebase
-		- AWS
+		- MongoDB, Firebase, PostGIS
+		- AWS, Heroku
+		- Git and GitHub
