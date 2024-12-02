@@ -5,3 +5,5 @@ Previous knowledge:
 			- Hexagonal Architecture
 			- JWT, Vault, Payment Gateway
 		- monolithic python
+	- Frontend:
+		- Single-SPA
