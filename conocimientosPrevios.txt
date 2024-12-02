@@ -4,6 +4,7 @@ Previous knowledge:
 		- Java Spring Boot microservices
 			- Hexagonal Architecture
 			- JWT, Vault, Payment Gateway
+			- Config Server, Discovery (Eureka), Gateway
 		- monolithic python
 	- Frontend:
 		- Single-SPA
