@@ -9,3 +9,4 @@ Previous knowledge:
 		- Single-SPA
 		- Angular
 		- Vue
+		- React
