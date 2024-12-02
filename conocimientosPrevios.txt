@@ -12,3 +12,4 @@ Previous knowledge:
 		- React
 	- DevOps:
 		- PostgreSQL, MySQL, SQLite
+		- MongoDB, Firebase
