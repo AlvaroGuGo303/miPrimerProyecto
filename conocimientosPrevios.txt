@@ -13,3 +13,4 @@ Previous knowledge:
 	- DevOps:
 		- PostgreSQL, MySQL, SQLite
 		- MongoDB, Firebase
+		- AWS
