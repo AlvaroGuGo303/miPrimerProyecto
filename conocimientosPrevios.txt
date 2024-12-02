@@ -11,6 +11,7 @@ Previous knowledge:
 		- Angular
 		- Vue
 		- React
+		- CSS, HTML, JS (JavaScript)
 	- DevOps:
 		- PostgreSQL, MySQL, SQLite
 		- MongoDB, Firebase, PostGIS
