@@ -10,3 +10,5 @@ Previous knowledge:
 		- Angular
 		- Vue
 		- React
+	- DevOps:
+		- PostgreSQL, MySQL, SQLite
