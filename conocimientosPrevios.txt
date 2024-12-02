@@ -7,3 +7,4 @@ Previous knowledge:
 		- monolithic python
 	- Frontend:
 		- Single-SPA
+		- Angular
