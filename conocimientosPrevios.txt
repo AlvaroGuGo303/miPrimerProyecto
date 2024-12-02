@@ -8,3 +8,4 @@ Previous knowledge:
 	- Frontend:
 		- Single-SPA
 		- Angular
+		- Vue
