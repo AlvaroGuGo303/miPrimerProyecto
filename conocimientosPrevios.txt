@@ -1,7 +1,7 @@
-Conocimientos previos:
-- Ingenieria Informática
+Previous knowledge:
+- Computer Engineering
 	- Backend:
-		- Java Spring Boot microservicios
+		- Java Spring Boot microservices
 			- Hexagonal Architecture
-		- python monolithic
-		
+			- JWT, Vault, Payment Gateway
+		- monolithic python
